@@ -25,12 +25,12 @@ module.exports = {
       boxShadowHover: "rgba(0, 0, 0, 0.32)",
     },
     darkTheme: {
-      primary: "#FAFAFA",
-      secondary: "#2A2926",
+      primary: "#FCFCFC",
+      secondary: "#ffcb29",
       tertiary: "#252525",
       text: "rgba(255, 255, 255, 0.87)",
       subtext: "#AAAAAA",
-      background: "#121212",
+      background: "#191530",
       card: "#1C1C1C",
       scrollBar: "rgba(255, 255, 255, 0.5)",
       boxShadow: "rgba(0, 0, 0, 0.16)",
@@ -55,25 +55,17 @@ module.exports = {
   socialMedia: [
     {
       name: "Linkedin",
-      url: "https://www.linkedin.com/in/konstantin-muenster/",
-    },
-    {
-      name: "Medium",
-      url: "https://konstantinmuenster.medium.com/",
+      url: "https://www.linkedin.com/in/ortegaguillaume/",
     },
     {
       name: "Github",
       url:
-        "https://github.com/konstantinmuenster/gatsby-starter-portfolio-minimal",
+        "https://github.com/ortegagui",
     },
     {
-      name: "Behance",
-      url: "https://www.behance.net/konstanmnster",
+       name: "Mail",
+       url: "mailto:orteguillaume@gmail.com",
     },
-    // {
-    //   name: "Mail",
-    //   url: "mailto:mail@konstantin.digital",
-    // },
   ],
 
   //-- NAVIGATION SETTINGS -----
